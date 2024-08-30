@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+ <style>
+ /* Styling the body element
+ like body color and margin */
+
+ body {
+ background-color: hashtag#7fa574;
+ margin: 20%;
+ }
+
+ /* Styling the Title and giving
+ shadow to the title */
+ hashtag#title {
+ text-align: center;
+ text-shadow: 5px 5px 10px white;
+ font-size: 7vh;
+ }
+
+ /* Setting width and display
+ type of image */
+ img {
+ display: inline-block;
+ width: 100%;
+ }
+
+ /* Setting font color and font
+ size of the image-caption */
+ hashtag#caption {
+ font-size: 17px;
+ font-family: Gill Sans;
+ color: black;
+ }
+
+ /* Styling the content of the page like-
+ padding, font-size, font color etc.*/
+ divhashtag#tribute-data {
+ background-color: rgb(46, 139, 87, 0.25);
+ box-shadow: 20px 20px 20px hashtag#98FB98;
+ font-family: Georgia;
+ padding: 25px 25px;
+ margin: 11px;
+ margin-top: 50px;
+ }
+
+ /* Styling the title of the content */
+ h1.title-APJ {
+ font-size: 35px;
+ color: white;
+ text-align: center;
+ text-shadow: 5px 5px 10px black;
+ }
+
+ /* Styling the link provided at the end */
+ hashtag#tribute-link {
+ text-decoration: none;
+ color: black;
+ }
+ </style>
+</head>
+
+<body>
+ <main id="main">
+
+ <!-- Title of the page -->
+ <h1 id="title">
+ mohandas karam chand gandhi
+ </h1>
+
+ <div id="img">
+
+ <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg"
+ alt="Error Loading Image">
+ <small id="caption">
+ Great Indian who paly a major role 
+ in indais independence
+ </small>
+ </div>
+
+ <div id="tribute-data">
+
+ <!--Achievements and other
+ details of the person-->
+ <h1 class="title-gandhiji">
+ About the Legend
+ </h1>
+ <p>
+ Mahatma Gandhi (Mohandas Karamchand Gandhi) played an important role in India’s struggle for freedom.
+ <br> Mahatma Gandhi is known for his policy of truth and non-violence.<br>
+
+Mohandas Karamchand Gandhi, popularly known as Mahatma Gandhi was a major political and spiritual leader of India who led the country in the non-cooperation movement in 1922 and Salt march in 1930 and later in Quit India movement in 1942 during its struggle for independence. <br>Known as Beloved Baapu in India, Mahatma Gandhi adopted the policy of mass disobedience and non-violent resistance as weapons against the British Rule in India and followed a principle of Ahimsa (total Non-Violence).<br> He endured several hardships, was arrested and occasionally beaten in his journey and struggle to Justice and Freedom. However, his struggle does not restrict to India itself, as the leader played a key role in the Civil Rights movement in South Africa and secured them the right to justice and equality. <br>His birthday 2 October is commemorated as Gandhi Jayanti, a national holiday and as the International Non-Violence day across the world.
+
+Mohandas Karamchand Gandhi was born in Porbandar, a town in Gujarat in western India on 2 October 1869.<br >His father Karamchand Gandhi was the Diwan of Porbandar state of British India. <br>His mother Putlibai was Karamchand’s fourth wife. <br> born in a Hindu family Gandhi strictly followed vegetarianism and fasting as means of self-purification.<br> At the age of 13 he was married to one year older kasturba.<br> In 1885, Kasturbai gave birth to their first child who survived only few days. <br>Later the couple had four sons. All along his schooling days Gandhi was an average student and passed his matriculation exam from Samaldas College, Gujarat with some difficulty.<br> On 4th September 1888, he traveled to England to study law at the university College London and to train as a barrister, as his family wanted him to be a barrister.
+ </p>
+
+ </div>
+ <br>
+ For more information,
+ check out
+ <a id="tribute-link" href="#">
+ <b>mahatma gandhi</b> 
+ 
+ </main>
+</body>
+
+</html>
+
+
+
